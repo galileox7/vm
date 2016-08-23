@@ -1,0 +1,1 @@
+{"code": 200, "data": [{"ip": "118.193.255.109", "password": "e7b8fea884ab4f13", "port": "8019", "method": "aes-256-cfb"}, {"ip": "106.185.39.47", "password": "db9738aeda8c4e5c", "port": "20003", "method": "aes-256-cfb"}, {"ip": "118.193.239.113", "password": "521f2a80c7ed448a", "port": "1978", "method": "aes-256-cfb"}]}
