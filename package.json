@@ -1,0 +1,15 @@
+{
+  "url": {
+    "base": "http://www.vpnmore.com",
+    "site": "http://www.vpnmore.com",
+    "pac_tpl": "https://raw.githubusercontent.com/galileox7/vm/master/pac.tpl",
+    "package": "https://raw.githubusercontent.com/galileox7/vm/master/package.json",
+    "charge": "/plans",
+    "support": "/support/new",
+    "public_ss": [
+        "https://raw.githubusercontent.com/galileox7/vm/master/ss.public",
+        "http://dl.mddjz.com/ss.public",
+        "http://vm-10063139.cos.myqcloud.com/ss.public"
+    ]
+  }
+}
